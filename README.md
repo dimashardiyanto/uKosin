@@ -1,4 +1,4 @@
-<p>Halo, ini adalah Kost Kita aplikasi Pencarian Kost dan Apartement, desain dan fitur sebagian terinpirasi dari aplikasi Mamikos.  Aplikasi ini akan terus mendapat update secara berkala.
+<p>Halo, ini adalah uKosin aplikasi Pencarian Kost, desain dan fitur sebagian terinpirasi dari aplikasi Papikos.  Aplikasi ini akan terus mendapat update secara berkala.
 Mohon untuk memberi issue jika kalian menemui bug pada saat penginstalan atau saat menggunakan aplikasi ini. Terima kasih <br/>
     
 ## Requirements
