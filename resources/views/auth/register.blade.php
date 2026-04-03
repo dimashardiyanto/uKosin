@@ -8,7 +8,7 @@
     <div class="card rounded-0 mb-0 px-2">
         <div class="card-header pb-1">
             <div class="card-title">
-                <h4 class="mb-0" style="text-align: center">Cari Kost dan Apartement Makin Mudah di Kasep Kost</h4>
+                <h4 class="mb-0" style="text-align: center">Cari Kost dan Apartement Makin Mudah di uKosin</h4>
             </div>
         </div>
         <div class="card-content mb-2">

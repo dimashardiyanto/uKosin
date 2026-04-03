@@ -1,4 +1,4 @@
-@if (auth::user()->role == 'Pemilik' || Auth::user()->role == 'Admin')
+    @if (auth::user()->role == 'Pemilik' || Auth::user()->role == 'Admin')
 <div class="content-overlay"></div>
 <div class="header-navbar-shadow"></div>
 <nav class="header-navbar navbar-expand-lg navbar navbar-with-menu fixed-top navbar-light navbar-shadow">

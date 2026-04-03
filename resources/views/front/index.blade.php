@@ -1,9 +1,9 @@
 @extends('layouts.front.app')
 @section('description')
-uKost, cari kos dan apartement makin mudah hanya di uKost. aplikasi pencari kos di indonesia.
+uKosin, cari kos dan apartement makin mudah hanya di uKost. aplikasi pencari kos di indonesia.
 @endsection
 @section('title')
-Selamat Datang di uKost
+Selamat Datang di uKosin
 @endsection
 
 

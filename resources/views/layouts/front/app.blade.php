@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta name="description" content="@yield('description')">
-    <meta name="keywords" content="Kasep Kost, cari kos di Kasep Kost, aplikasi pencari kos">
+    <meta name="keywords" content="uKosin, cari kos di uKosin, aplikasi pencari kos">
     <meta property="og:image" content="@yield('image') ">
     <meta name="author" content="Kasep_Code">
     <title>@yield('title')</title>

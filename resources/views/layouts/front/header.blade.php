@@ -15,11 +15,11 @@
           <ul class="nav navbar-nav ">
             <li class="nav-item mobile-menu d-none mr-auto"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="ficon feather icon-menu"></i></a></li>
             <li class="mr-2 d-none d-xl-block">
-              <a href="" style="color: black"><i class="feather icon-airplay" data-toggle="tooltip" data-placement="bottom" title="Download Aplikasi"></i> Download Aplikasi</a>
+              <img src="{{asset('assets/images/icon.png')}}" alt="icon" style="width: 75px; height: 75px;">
             </li>
-            <li class="d-none d-xl-block">
+            {{-- <li class="d-none d-xl-block">
               <a href="{{url('show-all-room')}}" style="color: black"><i class="feather icon-calendar" data-toggle="tooltip" data-placement="top" title="Booking Kamar"></i> Booking Kamar</a>
-            </li>
+            </li> --}}
           </ul>
         </div>
         <ul class="nav navbar-nav float-right">

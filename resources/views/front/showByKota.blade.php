@@ -3,7 +3,7 @@
   Kasep Kost, cari kos dan apartement makin mudah hanya di Kasep Kost. aplikasi pencari kos di indonesia.
 @endsection
 @section('title')
-  Selamat Datang di Kasep Kost
+  Selamat Datang di uKosin
 @endsection
 
 @section('content')
